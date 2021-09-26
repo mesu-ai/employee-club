@@ -19,7 +19,7 @@ const Employees = () => {
         //console.log(props);
         const newHire=[...hire,props];
         setHire(newHire);
-        console.log(newHire);
+       // console.log(newHire);
 
 
     }

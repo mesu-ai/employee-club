@@ -1,0 +1,7 @@
+.employeeName{
+    display: block;
+    background-color:whitesmoke;
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 0 0 1px 1px blue;
+}
