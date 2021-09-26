@@ -10,14 +10,4 @@ display: grid;
 grid-template-columns: repeat(3,1fr);
 grid-gap: 20px;
 
-
-}
-
-.employee-cart{
-    /* border-left: 2px solid black;
-    border: 2px solid crimson;
-    background-color:whitesmoke;
-    border-radius: 10px;
-    box-shadow: 0px 0px 2px 3px green; */
-    
 }

@@ -3,10 +3,12 @@ import EmployeeCart from '../employee-cart/Employee-Cart';
 import Employee from '../employee/Employee';
 import './Employees.css'
 
+
 const Employees = () => {
     const[employees,setEmployees]= useState([]);
     const[hire,setHire]= useState([]);
 
+    // employee data load from public folder
     useEffect(()=>{
         fetch('./employeedb.json')
         .then(res=>res.json())
@@ -14,28 +16,30 @@ const Employees = () => {
 
     },[]);
 
+    // declear new array & add new hired data
     const employeeHireHandaler =(props)=>{
 
-        //console.log(props);
         const newHire=[...hire,props];
         setHire(newHire);
-       // console.log(newHire);
-
 
     }
 
 
     return (
         
-
+        // parrent component of page
             <div className="employee-container" >
 
+            {/* employee display section */}
             <div className="employees">
-            {employees.map(employee=><Employee key={employee._id} employee={employee} employeeHireHandaler={employeeHireHandaler} ></Employee>)}
+                
+                {employees.map(employee=><Employee key={employee._id} employee={employee} employeeHireHandaler={employeeHireHandaler} ></Employee>)}
             </div>
 
-           <div className="employee-cart" >
-           
+            {/* cart section  */}
+            <div className="employee-cart" >
+
+                {/* call and pass props for cart calculation */}
                <EmployeeCart hire={hire}></EmployeeCart>
 
            </div>

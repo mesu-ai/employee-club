@@ -4,14 +4,17 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faUserPlus } from '@fortawesome/free-solid-svg-icons'
 
 const Employee = (props) => {
-  //  console.log(props);
-
+  
+    // object destructuring
     const {name,gender,phone,email,salary,image}=props.employee;
+
+    //font awesome icone
     const element = <FontAwesomeIcon icon={faUserPlus} />
 
 
-
     return (
+       
+        // display employee details to card
         <div className="employee">
             <div className="card">
 
@@ -21,6 +24,7 @@ const Employee = (props) => {
             <p>Monthly salary: ${salary}</p>
             <p>{email}</p>
             <p>{phone}</p>
+
             <button onClick={()=>props.employeeHireHandaler(props.employee)} className="add-hire">{element} Hire Me</button>
 
             </div>
