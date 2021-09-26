@@ -18,14 +18,13 @@ const Header = () => {
             <div className="bannerText">
                 <h1>The world's largest staff recruitment expo 2021. Join now to get hired.</h1>
 
-            <a href="/registerNow" className="banner-link" ><span style={{color:'red'}}>Register </span> Now {'>>'} </a>  
-
-           
+            <a href="/registerNow" className="banner-link" > <span>Register </span> Now {'>>'} </a> 
             
             </div>
-
-
+            
+            
             <h1 style={{marginTop:'50px'}}><span className="headerText">Employee</span> Club</h1>
+            <hr /><hr />
   
         </div>
     );

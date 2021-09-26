@@ -6,6 +6,7 @@
     font-size: 40px;
     font-style: italic;
     font-weight: bold;
+    
    
 }
 
@@ -19,7 +20,7 @@
 }
 
 .banner-link{
-    background-color:turquoise;
+    background-color:yellow;
     padding: 8px 20px;
     font-weight: bold;
     text-decoration: none;
@@ -28,6 +29,13 @@
     font-style: italic;
 }
 a:hover{
-    background-color:whitesmoke;
-    color: black;
+    background-color:blue;
+    color:red;
+    border:2px solid yellow;
+}
+.banner-link span{
+    color: red;
+}
+.banner-link:hover span{
+    color: white;
 }
