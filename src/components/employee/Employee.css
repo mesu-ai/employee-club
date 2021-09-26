@@ -1,0 +1,33 @@
+.employee{
+    margin: 15px;
+    border: 2px solid crimson;
+    background-color:whitesmoke;
+    border-radius: 10px;
+    box-shadow: 0px 0px 2px 3px green;
+    padding: 10px;
+
+}
+.add-hire{
+    background-color:rgb(7, 7, 146);
+    padding: 10px 15px;
+    margin-top: 10px;
+    border-radius: 10px;
+    font-size: 18px;
+    font-weight: bold;
+    color: white;
+
+}
+
+.add-hire:hover{
+    background-color:green;
+    
+    font-weight: bold;
+    color: white;
+
+}
+.card{
+    background-color: whitesmoke;
+    padding: 8px;
+    box-shadow: 0 0 5px 0px;
+    border-radius: 10px;
+}

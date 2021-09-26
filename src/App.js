@@ -1,12 +1,15 @@
 
 import './App.css';
-import Writters from './components/writters/Writters';
+import Employees from './components/employees/Employees';
+import Header from './components/header/Header';
 
 function App() {
   return (
     <div className="App">
 
-      <Writters></Writters>
+      <Header></Header>
+
+      <Employees></Employees>
       
     </div>
   );

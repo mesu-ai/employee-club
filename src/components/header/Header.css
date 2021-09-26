@@ -1,0 +1,9 @@
+.header{
+    margin: 50px;
+}
+.headerText{
+    color: red;
+    font-size: 40px;
+    font-style: italic;
+    font-weight: bold;
+}
