@@ -12,30 +12,32 @@ const Employees = () => {
 
     },[]);
 
+    const employeeHireHandaler =(props)=>{
+        console.log(props);
+
+
+    }
+
 
     return (
-        <div>
-
-            
+        
 
             <div className="employee-container" >
 
             <div className="employees">
-            {employees.map(employee=><Employee key={employee.id} employee={employee}></Employee>)}
+            {employees.map(employee=><Employee key={employee._id} employee={employee} employeeHireHandaler={employeeHireHandaler} ></Employee>)}
             </div>
 
            <div className="cart" >
-               <h3>Added</h3>
+               <h1>Employee Cart</h1>
+               <h3>Employee Recruitment: </h3>
+               <h3>Total Salary To Be Paid:</h3>
 
 
            </div>
 
            </div>
 
-
-
-            
-        </div>
     );
 };
 

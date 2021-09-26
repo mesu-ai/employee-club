@@ -21,7 +21,7 @@ const Employee = (props) => {
             <p>Monthly Honorarium: {honorarium}</p>
             <p>{email}</p>
             <p>{phone}</p>
-            <button className="add-hire">{element} Add to Hire</button>
+            <button onClick={()=>props.employeeHireHandaler(props.employee)} className="add-hire">{element} Add to Hire</button>
 
             </div>
             
