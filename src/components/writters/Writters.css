@@ -1,5 +1,14 @@
+.writter-container{
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+}
+
 .writters{
 display: grid;
 grid-template-columns: repeat(3,1fr);
 
+}
+
+.cart{
+    border-left: 1px solid black;
 }

@@ -16,12 +16,21 @@ const Writters = () => {
     return (
         <div>
 
-            <p>manajd</p>
-            <div className="writters">
-            {writters.map(writter=><Writter key={writter._id} writter={writter}></Writter>)}
+            <p>Writter Club</p>
 
+            <div className="writter-container" >
+
+            <div className="writters">
+            {writters.map(writter=><Writter key={writter.id} writter={writter}></Writter>)}
             </div>
-           
+
+           <div className="cart" >
+               <h3>Added</h3>
+
+
+           </div>
+
+           </div>
 
 
 
