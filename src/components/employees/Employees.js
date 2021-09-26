@@ -18,9 +18,15 @@ const Employees = () => {
 
     // declear new array & add new hired data
     const employeeHireHandaler =(props)=>{
-
+       
+       const same= hire.find(hired=>hired.name===props.name);
+       if(same){
+            alert('Already Hired !');
+       }
+       else{
         const newHire=[...hire,props];
         setHire(newHire);
+       }
 
     }
 

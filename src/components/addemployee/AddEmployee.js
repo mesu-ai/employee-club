@@ -3,12 +3,13 @@ import './AddEmployee.css';
 
 const AddEmployee = (props) => {
 
-    // console.log(props.ename.name);
-    return (
-        <div>
 
+    return (
+        <div className="employeeName">
+            {/* hired employee photo */}
+            <img src={props.ename.image} alt="" height="30" width="50" />
             {/* list of hired employee name */}
-            <h4> <span className="employeeName"> {props.ename.name} </span></h4>
+            <h3> <span > {props.ename.name} </span></h3>
  
         </div>
     );

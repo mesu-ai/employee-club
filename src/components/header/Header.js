@@ -3,15 +3,6 @@ import React from 'react';
 
 const Header = () => {
 
-    const textDecoration={
-        fontStyle:'italic',
-        backgroundColor:'whitesmoke',
-        display:'inline',
-        padding:'8px 20px',
-        borderRadius:'10px',
-        color:'navy'
-    };
-
     return (
         <div className="header">
 
@@ -21,7 +12,7 @@ const Header = () => {
                 <h3>Maximum budget of Employee Hiring $1,00,000. </h3>
 
             {/* register button */}
-            <a href="/registerNow" className="banner-link" > <span>Register </span> Now {'>>'} </a> 
+            <a href="#registerNow" className="banner-link" > <span>Register </span> Now {'>>'} </a> 
             
             </div>
             
