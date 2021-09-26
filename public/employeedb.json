@@ -1,7 +1,7 @@
 [
   {
     "_id": "614fd3522123e062890fffbd",
-    "honorarium": "$4,862.52",
+    "honorarium": "4862.52",
     "image": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8cGVyc29ufGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80",
     "age": 21,
     "name": "Deirdre Cain",
@@ -11,7 +11,7 @@
   },
   {
     "_id": "614fd3523d45d962f84e72d5",
-    "honorarium": "$4,501.90",
+    "honorarium": "4501.90",
     "image": "https://images.unsplash.com/flagged/photo-1570612861542-284f4c12e75f?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8cGVyc29ufGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
     "age": 37,
     "name": "Adam Jon",
@@ -21,7 +21,7 @@
   },
   {
     "_id": "614fd35233e3ad88a1101da3",
-    "honorarium": "$4,162.32",
+    "honorarium": "4162.32",
     "image": "https://images.unsplash.com/photo-1499952127939-9bbf5af6c51c?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTJ8fHBlcnNvbnxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
     "age": 38,
     "name": "Lilian Cooley",
@@ -31,7 +31,7 @@
   },
   {
     "_id": "614fd352ad29f3e197f3993b",
-    "honorarium": "$4,011.99",
+    "honorarium": "4011.99",
     "image": "https://images.unsplash.com/photo-1547425260-76bcadfb4f2c?ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8cGVyc29ufGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
     "age": 28,
     "name": "Nielsen Faulkner",
@@ -41,7 +41,7 @@
   },
   {
     "_id": "614fd3527622870aac399411",
-    "honorarium": "$4,878.55",
+    "honorarium": "4878.55",
     "image": "https://images.unsplash.com/photo-1593104547489-5cfb3839a3b5?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjR8fHBlcnNvbnxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
     "age": 28,
     "name": "Janice Black",
@@ -51,7 +51,7 @@
   },
   {
     "_id": "614fd35299cba14ccc345450",
-    "honorarium": "$4,507.26",
+    "honorarium": "4507.26",
     "image": "https://images.unsplash.com/photo-1599566150163-29194dcaad36?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzB8fHBlcnNvbnxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
     "age": 53,
     "name": "Blankenship Lang",
@@ -61,7 +61,7 @@
   },
   {
     "_id": "614fd352f2dbcdc836589be8",
-    "honorarium": "$4,064.71",
+    "honorarium": "4064.71",
     "image": "https://images.unsplash.com/photo-1598411072028-c4642d98352c?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mzl8fHBlcnNvbnxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
     "age": 48,
     "name": "Bowers Andrews",
@@ -71,7 +71,7 @@
   },
   {
     "_id": "614fd352d4dc0dccc70f8a7b",
-    "honorarium": "$4,369.50",
+    "honorarium": "4369.50",
     "image": "https://images.unsplash.com/photo-1542206395-9feb3edaa68d?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjN8fHBlcnNvbnxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
     "age": 37,
     "name": "Fay Ramsey",
@@ -81,7 +81,7 @@
   },
   {
     "_id": "614fd3529754dbeed6cc57ea",
-    "honorarium": "$4,303.05",
+    "honorarium": "4303.05",
     "image": "https://images.unsplash.com/photo-1569124589354-615739ae007b?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzN8fHBlcnNvbnxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
     "age": 52,
     "name": "Ramona Sanders",
@@ -91,7 +91,7 @@
   },
   {
     "_id": "614fd3521d3e9d97cbde094a",
-    "honorarium": "$4,387.48",
+    "honorarium": "4387.48",
     "image": "https://images.unsplash.com/photo-1545167622-3a6ac756afa4?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NDV8fHBlcnNvbnxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
     "age": 26,
     "name": "Franks Prince",
@@ -101,7 +101,7 @@
   },
   {
     "_id": "614fd3522eed69fd80605acc",
-    "honorarium": "$4,597.68",
+    "honorarium": "4597.68",
     "image": "https://images.unsplash.com/photo-1615813967515-e1838c1c5116?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NDB8fHBlcnNvbnxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
     "age": 23,
     "name": "Hampton Lowe",
@@ -111,7 +111,7 @@
   },
   {
     "_id": "614fd3520beb49553c41747a",
-    "honorarium": "$4,946.41",
+    "honorarium": "4946.41",
     "image": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NDF8fHBlcnNvbnxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
     "age": 25,
     "name": "Katheryn Eaton",
@@ -121,7 +121,7 @@
   },
   {
     "_id": "614fd352dcf200b087a675ef",
-    "honorarium": "$4,352.36",
+    "honorarium": "4352.36",
     "image": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NDR8fHBlcnNvbnxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
     "age": 20,
     "name": "Ida Kelley",
@@ -131,7 +131,7 @@
   },
   {
     "_id": "614fd352d6cb4681fa3eb286",
-    "honorarium": "$4,478.57",
+    "honorarium": "4478.57",
     "image": "https://images.unsplash.com/photo-1597223557154-721c1cecc4b0?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NDZ8fHBlcnNvbnxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
     "age": 45,
     "name": "Theresa Moran",
@@ -141,7 +141,7 @@
   },
   {
     "_id": "614fd352bd56d071b73c13b1",
-    "honorarium": "$4,140.09",
+    "honorarium": "4140.09",
     "image": "https://images.unsplash.com/photo-1529626455594-4ff0802cfb7e?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NTF8fHBlcnNvbnxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
     "age": 35,
     "name": "Celina Michael",
@@ -151,7 +151,7 @@
   },
   {
     "_id": "614fd352eb3cee60549b5b94",
-    "honorarium": "$4,817.36",
+    "honorarium": "4817.36",
     "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NDl8fHBlcnNvbnxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
     "age": 46,
     "name": "Morales Vasquez",
@@ -161,7 +161,7 @@
   },
   {
     "_id": "614fd3520a4591c559f52ee8",
-    "honorarium": "$4,349.26",
+    "honorarium": "4349.26",
     "image":"https://images.unsplash.com/photo-1508214751196-bcfd4ca60f91?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NjB8fHBlcnNvbnxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
     "age": 49,
     "name": "Mae Berry",
@@ -171,7 +171,7 @@
   },
   {
     "_id": "614fd352c54a5f7bb616496c",
-    "honorarium": "$4,331.52",
+    "honorarium": "4331.52",
     "image": "https://images.unsplash.com/photo-1607346256330-dee7af15f7c5?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NTN8fHBlcnNvbnxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
     "age": 29,
     "name": "Harris Fulton",
@@ -181,7 +181,7 @@
   },
   {
     "_id": "614fd352b9b66cb52446bc85",
-    "honorarium": "$4,634.55",
+    "honorarium": "4634.55",
     "image": "https://images.unsplash.com/photo-1616065298043-67646192dcb5?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NTh8fHBlcnNvbnxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
     "age": 48,
     "name": "Maureen Hendrix",
@@ -191,7 +191,7 @@
   },
   {
     "_id": "614fd35276b7cfdaea82e6d0",
-    "honorarium": "$4,578.41",
+    "honorarium": "4578.41",
     "image": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NTd8fHBlcnNvbnxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
     "age": 43,
     "name": "Stephens Burgess",
@@ -201,7 +201,7 @@
   },
   {
     "_id": "614fd35213048b4f4798ee14",
-    "honorarium": "$4,013.70",
+    "honorarium": "4013.70",
     "image": "https://images.unsplash.com/photo-1506863530036-1efeddceb993?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nzl8fHBlcnNvbnxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
     "age": 32,
     "name": "Shelia Compton",
@@ -211,7 +211,7 @@
   },
   {
     "_id": "614fd352fa3ce6d61500135a",
-    "honorarium": "$4,938.89",
+    "honorarium": "4938.89",
     "image": "https://images.unsplash.com/photo-1552374196-c4e7ffc6e126?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NzJ8fHBlcnNvbnxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
     "age": 55,
     "name": "Mcneil Landry",
@@ -221,7 +221,7 @@
   },
   {
     "_id": "614fd352d647f33c169f3e76",
-    "honorarium": "$4,927.27",
+    "honorarium": "4927.27",
     "image": "https://images.unsplash.com/photo-1608791952180-79294109d843?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nzh8fHBlcnNvbnxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
     "age": 40,
     "name": "Ellison Santana",
@@ -231,7 +231,7 @@
   },
   {
     "_id": "614fd352ef57275e72c162d6",
-    "honorarium": "$4,633.32",
+    "honorarium": "4633.32",
     "image": "https://images.unsplash.com/photo-1548536904-f6660b76e77a?ixid=MnwxMjA3fDB8MHxzZWFyY2h8ODh8fHBlcnNvbnxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
     "age": 25,
     "name": "Gonzalez Shepherd",
@@ -241,7 +241,7 @@
   },
   {
     "_id": "614fd3529cf93f5aa93d02fb",
-    "honorarium": "$4,110.92",
+    "honorarium": "4110.92",
     "image": "https://images.unsplash.com/photo-1548142542-c53707f8b05b?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTA3fHxwZXJzb258ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
     "age": 30,
     "name": "Compton Battle",
@@ -251,7 +251,7 @@
   },
   {
     "_id": "614fd352cca8f7707aeb883a",
-    "honorarium": "$4,234.27",
+    "honorarium": "4234.27",
     "image": "https://images.unsplash.com/photo-1614880353165-e56fac2ea9a8?ixid=MnwxMjA3fDB8MHxzZWFyY2h8OTl8fHBlcnNvbnxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
     "age": 22,
     "name": "Mcclain Wardi",
@@ -261,7 +261,7 @@
   },
   {
     "_id": "614fd3524271f53d1e199f3e",
-    "honorarium": "$4,836.66",
+    "honorarium": "4836.66",
     "image": "https://images.unsplash.com/photo-1599256621730-535171e28e50?ixid=MnwxMjA3fDB8MHxzZWFyY2h8OTV8fHBlcnNvbnxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
     "age": 22,
     "name": "Edwards Parrish",
@@ -271,7 +271,7 @@
   },
   {
     "_id": "614fd35277f22e521c7e71a9",
-    "honorarium": "$4,944.25",
+    "honorarium": "4944.25",
     "image": "https://images.unsplash.com/photo-1584361853901-dd1904bb7987?ixid=MnwxMjA3fDB8MHxzZWFyY2h8OTN8fHBlcnNvbnxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
     "age": 28,
     "name": "Joni Wolfe",
@@ -281,7 +281,7 @@
   },
   {
     "_id": "614fd35265af37a80a3af027",
-    "honorarium": "$4,395.33",
+    "honorarium": "4395.33",
     "image": "https://images.unsplash.com/photo-1609708993734-29d07306bdc7?ixid=MnwxMjA3fDB8MHxzZWFyY2h8OTZ8fHBlcnNvbnxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
     "age": 53,
     "name": "Thelma Workman",
@@ -291,7 +291,7 @@
   },
   {
     "_id": "614fd352a0cbd5995e1238a7",
-    "honorarium": "$4,157.10",
+    "honorarium": "4157.10",
     "image": "https://images.unsplash.com/photo-1618835962148-cf177563c6c0?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTEyfHxwZXJzb258ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
     "age": 46,
     "name": "Stark Ortegin",

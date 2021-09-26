@@ -1,9 +1,11 @@
 import React, { useEffect, useState } from 'react';
+import EmployeeCart from '../employee-cart/Employee-Cart';
 import Employee from '../employee/Employee';
 import './Employees.css'
 
 const Employees = () => {
     const[employees,setEmployees]= useState([]);
+    const[hire,setHire]= useState([]);
 
     useEffect(()=>{
         fetch('./employeedb.json')
@@ -13,7 +15,11 @@ const Employees = () => {
     },[]);
 
     const employeeHireHandaler =(props)=>{
-        console.log(props);
+
+        //console.log(props);
+        const newHire=[...hire,props];
+        setHire(newHire);
+        console.log(newHire);
 
 
     }
@@ -28,11 +34,9 @@ const Employees = () => {
             {employees.map(employee=><Employee key={employee._id} employee={employee} employeeHireHandaler={employeeHireHandaler} ></Employee>)}
             </div>
 
-           <div className="cart" >
-               <h1>Employee Cart</h1>
-               <h3>Employee Recruitment: </h3>
-               <h3>Total Salary To Be Paid:</h3>
-
+           <div className="employee-cart" >
+           
+               <EmployeeCart hire={hire}></EmployeeCart>
 
            </div>
 
